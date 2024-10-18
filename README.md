@@ -8,4 +8,5 @@
 0. [Rafting](./index/rafting.md)
 0. [Алиса и Артем](./index/alisa_i_artem.md)
 0. [Квартира](./index/kvartira.md)
-
+0. [Тамиск](./index/tamisk.md)
+0. [Что же такого в Сингапуре..?](./index/singapur.md)

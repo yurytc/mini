@@ -11,3 +11,5 @@
 0. [Тамиск](./index/tamisk.md)
 0. [Что же такого в Сингапуре..?](./index/singapur.md)
 0. [О вождении автомашины](./index/avto.md)
+0. [Про аллергию](./index/pro_allergiu.md)
+0. [Романтическое приключеие](./index/romanticheskoe_prikluchenie.md)

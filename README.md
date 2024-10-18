@@ -10,3 +10,4 @@
 0. [Квартира](./index/kvartira.md)
 0. [Тамиск](./index/tamisk.md)
 0. [Что же такого в Сингапуре..?](./index/singapur.md)
+0. [О вождении автомашины](./index/avto.md)

@@ -7,4 +7,5 @@
 0. [Кащеев](./index/kascheev.md)
 0. [Rafting](./index/rafting.md)
 0. [Алиса и Артем](./index/alisa_i_artem.md)
+0. [Квартира](./index/kvartira.md)
 

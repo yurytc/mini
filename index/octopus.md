@@ -1,4 +1,4 @@
-# Octopus
+# [Миниатюры](../README.md) / Octopus
 
 Octopus (англ, осьминог), общеизвестные подробности смотрите по [ссылке](http://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%8C%D0%BC%D0%B8%D0%BD%D0%BE%D0%B3).
 

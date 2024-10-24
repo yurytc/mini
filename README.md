@@ -1,4 +1,4 @@
-# Миниатюры
+# Миниатюры1
 
 1. [Черныш](./index/chernish.md)
 0. [Про мышей](./index/pro_myshey.md)

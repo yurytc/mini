@@ -17,4 +17,4 @@
 1. [Velo](./index/velo.md)
 3. [О поправках к конституции](./index/Const.md).
 4. [План Зеленского](./index/Zelensky.md)
-5. [Жизнь](./index/.md)
+5. [Жизнь](./index/life.md)

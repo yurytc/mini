@@ -13,7 +13,7 @@
 0. [О вождении автомашины](./index/avto.md)
 0. [Про аллергию](./index/pro_allergiu.md)
 0. [Романтическое приключеие](./index/romanticheskoe_prikluchenie.md)
-0. [Жоеквара](./index/joekvara.md)
+0. [Жоэквара](./index/joekvara.md)
 1. [Velo](./index/velo.md)
 3. [О поправках к конституции](./index/Const.md).
 4. [План Зеленского](./index/Zelensky.md)

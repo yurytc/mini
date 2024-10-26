@@ -14,4 +14,3 @@
 0. [Про аллергию](./index/pro_allergiu.md)
 0. [Романтическое приключеие](./index/romanticheskoe_prikluchenie.md)
 
-erklfgnerlkgherl lerkhelkherlk heglkg herlkge

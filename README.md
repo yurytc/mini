@@ -15,7 +15,5 @@
 0. [Романтическое приключеие](./index/romanticheskoe_prikluchenie.md)
 0. [Жоеквара](./index/joekvara.md)
 1. [Velo](./index/velo.md)
-2. [Velo1](./indonstex/velo.md)
-3. [Const](./index/Const.md)
-4.  [План Зеленского](./index/Zelensky plan.md)
-
+3. [О поправках к конституции](./index/Const.md).
+4. [План Зеленского](./index/Zelensky plan.md)

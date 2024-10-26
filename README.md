@@ -16,4 +16,4 @@
 0. [Жоеквара](./index/joekvara.md)
 1. [Velo](./index/velo.md)
 3. [О поправках к конституции](./index/Const.md).
-4. [План Зеленского](./index/Zelensky plan.md)
+4. [План Зеленского](./index/Zelensky.md)

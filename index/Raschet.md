@@ -76,6 +76,7 @@ Uwe = R *П*sin(90 –Ans)*Awe/90
 В то же время рассмотрим очевидное геометрическое построение:
 
 
+![изображение](https://github.com/user-attachments/assets/e3832407-77e0-44ec-b26a-00ba7e240c24)
 
 
 Здесь: AD=BC=H

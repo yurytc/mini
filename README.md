@@ -14,8 +14,9 @@
 0. [Про аллергию](./index/pro_allergiu.md)
 0. [Романтическое приключеие](./index/romanticheskoe_prikluchenie.md)
 0. [Жоэквара](./index/joekvara.md)
-1. [Velo](./index/velo.md)
-3. [О поправках к конституции](./index/Const.md).
-4. [План Зеленского](./index/Zelensky.md)
-5. [Жизнь](./index/life.md)
-6. [Расчет по поверхнрсти Земли](./index/Raschet.md)
+0. [Velo](./index/velo.md)
+0. [О поправках к конституции](./index/Const.md).
+0. [План Зеленского](./index/Zelensky.md)
+0. [Жизнь](./index/life.md)
+0. [Расчет по поверхнрсти Земли](./index/Raschet.md)
+0. [Силл Стоун](./index/sill_stone.md)
